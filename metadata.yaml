@@ -1,0 +1,26 @@
+_repo: Hellas-b-Griechisches-Leben-und-altklassischer-Geist-in-deutscher-Wiedergeburt_75285
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Weber, Dr. Ernst
+    gutenberg_agent_id: '57913'
+    url: http://www.gutenberg.org/2009/agents/57913
+description: ''
+gutenberg_issued: '2025-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75285'
+language: de
+pgterms:marc905: 20231015064536weber
+pgterms:marc906: '1925'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aMünchen :$bGeorg D. W. Callwey + Verlag des deutschen Spielmanns,
+  $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Hellas : $b Griechisches Leben und altklassischer Geist in deutscher Wiedergeburt'
+url: http://www.gutenberg.org/ebooks/75285
